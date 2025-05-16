@@ -1,5 +1,5 @@
 ## 📄 Relatório Final
 
-Você pode acessar o relatório completo deste projeto em formato PDF clicando abaixo:
+Você pode abrir o relatório completo deste projeto diretamente no navegador:
 
-👉 [Relatório - IA AV2](Relatorio_IA_AV2.pdf)
+👉 [📄 Abrir Relatório (PDF)](https://github.com/marcosfilho95/inteligencia-artificial-rna/raw/main/Relatório%20IA%20-%20AV2.pdf)
